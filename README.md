@@ -1,4 +1,4 @@
-# iw4xaim
+# iw4xaim-source
 
 Shitty aimbot for iw4x for shits and giggles
 
